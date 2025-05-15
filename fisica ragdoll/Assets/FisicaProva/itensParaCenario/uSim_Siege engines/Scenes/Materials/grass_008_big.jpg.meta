@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: 761fcc9b74a11dc4097e656edc402314
+guid: 60e8ea165a1751e449cfd1d978130c0c
 AssetOrigin:
   serializedVersion: 1
-  productId: 107224
-  packageName: CITY package
+  productId: 79619
+  packageName: uSim Siege Engines
   packageVersion: 1.0
-  assetPath: Assets/POLYGON city pack/Meshes,textures/ways_FBX/grass.png
-  uploadId: 658773
+  assetPath: Assets/uSim_Siege engines/Scenes/Materials/grass_008_big.jpg
+  uploadId: 153939
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -41,8 +41,8 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
-    aniso: 1
+    filterMode: 1
+    aniso: 13
     mipBias: 0
     wrapU: 0
     wrapV: 0
@@ -76,7 +76,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -89,6 +89,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 10
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -99,7 +112,7 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 4
     buildTarget: Android
     maxTextureSize: 2048

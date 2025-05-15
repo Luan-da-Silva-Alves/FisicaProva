@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/09-04licao.unity
+    guid: d4d686cf86b4338429f5191082d4442a
+  - enabled: 1
+    path: Assets/Scenes/23-04licao.unity
+    guid: e6ec8a8e1da67aa46a7f81fcb0e4de78
+  - enabled: 1
+    path: Assets/Scenes/30-04.unity
+    guid: a69cd18101b2a85478ed9022eb77021b
+  - enabled: 1
+    path: Assets/Scenes/FisicaProva.unity
+    guid: 886a4d33aeb371941b3c460f56cd2999
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
